@@ -1,0 +1,15 @@
+.btn{
+    padding: 15px;
+    border-radius: 7px;
+    background-color: rgb(226, 103, 128);
+}
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30vh;
+    flex-direction: column;
+}
+.btn:hover{
+    background-color: crimson;
+}
